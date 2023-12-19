@@ -1,3 +1,4 @@
 datasets that is used at the moment:
-- https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+- https://www.kaggle.com/datasets/crawford/emnist
+- https://www.kaggle.com/datasets/adamkaniasty/digital-letters
 
